@@ -1,0 +1,7 @@
+{
+  "require": {
+    "nick322/secure-spreadsheet": "^1.0.12",
+    "pear/pear-core-minimal": "^1.0",
+    "phpoffice/phpspreadsheet": "^2.0.0"
+  }
+}
